@@ -1,7 +1,8 @@
 Recherche d'un plus court chemin
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Vous pouvez compiler et exécuter le programme en tapant make dans un terminal si vous téléchargez le fichier make.
+Vous pouvez compiler et exécuter le programme en tapant la commande "make" dans un terminal si vous téléchargez le fichier makefile.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Un chasseur de trésors se trouve dans un bâtiment rectangulaire d’un seul étage

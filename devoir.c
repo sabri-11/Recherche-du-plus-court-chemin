@@ -236,6 +236,7 @@ int tresor_iter(int n, int m, int valeur[n][m])
 int tresor_rec(int i, int j, int n, int m, int valeur[n][m])
 {
     int a, b;
+//	printf("le chasseur est en(%d, %d)\n", i, j);
     if (i==n-1 && j==m-1)
     {
         return(valeur[i][j]);
